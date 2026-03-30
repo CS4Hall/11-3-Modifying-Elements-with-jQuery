@@ -8,3 +8,7 @@ html {
 h1 {
   font-family: "Poetsen One", sans-serif;
 }
+
+img{
+  border-radius: 20px;
+}

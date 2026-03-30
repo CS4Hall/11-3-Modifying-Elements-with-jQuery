@@ -1,4 +1,4 @@
-# 12-4-Modifying-Elements-with-jQuery
+# 11-3-Modifying-Elements-with-jQuery
 
 ## Video
 
